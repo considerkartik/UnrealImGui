@@ -6,6 +6,7 @@
 
 #include <ModuleManager.h>
 
+extern IMGUI_API int32 CurrentContextIndex;
 
 class FImGuiModule : public IModuleInterface
 {
