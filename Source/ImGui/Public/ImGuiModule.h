@@ -6,7 +6,7 @@
 
 #include <ModuleManager.h>
 
-extern IMGUI_API int32 CurrentContextIndex;
+extern IMGUI_API int32 CurrentContextIndex; // BEGIN TBS
 
 class FImGuiModule : public IModuleInterface
 {
